@@ -1,0 +1,16 @@
+body{
+    font-size: 14px;
+    font-weight: 250px;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    border: 23px;
+    margin: 56;
+    padding: 2%;
+}
+.content{
+    border: 23px;
+    margin: 56;
+    padding: 2%;
+}
